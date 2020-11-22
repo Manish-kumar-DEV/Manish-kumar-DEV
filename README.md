@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!
 
 <p align="center">
 Hi, I’m <a href="http://manish-kumar-dev.github.io" target="_blank">Manish Kumar</a>, a Full Stack Web Developer (MERN Stack).
@@ -26,15 +26,17 @@ Here are some ideas to get you started:
 <p>
 I'm just a click away
 </p>
-<a href="">
+<p>
+<a href="https://www.linkedin.com/in/manish-kumar-dev/" target="_blank">
 <img alt="Manish Kumar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a>
+<a href="https://www.hackerrank.com/Manish_kumar_DEV" target="_blank">
 <img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="http://manish-kumar-dev.github.io" target="_blank">
+<a href="http://manish-kumar-dev.github.io" target="_blank" >
 <img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/firefoxbrowser.svg" />
 </a>
+  </p>
 <br />
 
 #### Languages and Tools:
@@ -59,5 +61,6 @@ I'm just a click away
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-kumar-DEV&layout=compact&theme=radical" alt="Manish Kumar DEV" height='195px'/>
-<img alt="Manish Kumar DEV" src="https://github-readme-stats.vercel.app/api?username=Manish-kumar-DEV&show_icons=true&hide_border=true&theme=radical" />
-</p>
+<img alt="Manish Kumar DEV" src="https://github-readme-stats.vercel.app/api?username=Manish-kumar-DEV&show_icons=true&hide_border=true&theme=radical" height="195px" />
+  </p>
+
